@@ -9,7 +9,7 @@ title: Sweet Sonder
 	  <div class="post">
   <h3 class="post-title">{{ post.title }}</h3>
   <span class="post-date">{{ post.date | date_to_string }}</span>
-  {{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
+  {{ post.content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
 </div>
 	  {% endfor %}
 	</ul>

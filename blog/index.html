@@ -6,6 +6,10 @@ title: Sweet Sonder
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  <div class="post">
+  <h1 class="post-title">{{ post.title }}</h1>
+  <span class="post-date">{{ post.date | date_to_string }}</span>
+  {{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
+</div>
 	  {% endfor %}
 	</ul>

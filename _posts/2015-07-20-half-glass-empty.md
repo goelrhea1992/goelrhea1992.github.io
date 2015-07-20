@@ -10,10 +10,10 @@ date: 2015-07-20
 </p>
 
 <p>
-  Like there is so much to do in life. And you've done so little.
-  There is so much to learn. And you've learned so little.
-  There is so much to see. And you've seen so little.
-  Time seems to race with you, and beats you every time.
+  Like there is so much to do in life. And you've done so little. </br>
+  There is so much to learn. And you've learned so little.</br>
+  There is so much to see. And you've seen so little. </br>
+  Time seems to race with you, and beats you every time.</br>
 </p>
 
 <p>

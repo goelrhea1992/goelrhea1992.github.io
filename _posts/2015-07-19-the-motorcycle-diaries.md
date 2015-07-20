@@ -34,7 +34,7 @@ money they had and accompanied them to the copper mines, where they saw yet anot
 </p>
   
 <p>
-  On the last day of their stay, he gave voice to his egalitarian ideology by raising a toast, to Peru and for a United America. He vouched for a just society with no distinctions whatsoever. he wished to celebrate his birthday and share the joy with the people on the other side of the river too. Despite his severe asthma, he jumped into the water and swam across the river to reach the other side, with the leper patients cheering him on!
+  On the last day of their stay, he gave voice to his egalitarian ideology by raising a toast, to Peru and for a United America. He vouched for a just society with no distinctions whatsoever. He wished to celebrate his birthday and share the joy with the people on the other side of the river too. Despite his severe asthma, he jumped into the water and swam across the river to reach the other side, with the leper patients cheering him on!
 </p>
 
 <p>

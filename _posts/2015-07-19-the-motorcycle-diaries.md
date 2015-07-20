@@ -26,7 +26,7 @@ money they had and accompanied them to the copper mines, where they saw yet anot
 </p>
 
 <p>
-  Towards the end of their journey, they volunteered to serve leprosy-affected people in San Pablo. Guevara felt sick looking at the poor people packed in small, filthy boats while travelling in spacious, luxurious boats himself and othe rhigh class officials. 
+  Towards the end of their journey, they volunteered to serve leprosy-affected people in San Pablo. Guevara felt sick looking at the poor people packed in small, filthy boats while travelling in spacious, luxurious boats himself with other high class officials. 
 </p>
 
 <p>

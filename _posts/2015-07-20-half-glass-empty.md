@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Half glass empty"
+title: "Half Glass Empty"
 date: 2015-07-20
 ---
 

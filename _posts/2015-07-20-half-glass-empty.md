@@ -1,9 +1,9 @@
-
 ---
 layout: post
 title: "Half glass empty"
 date: 2015-07-20
 ---
+
 
 <p>
   Just one of those days when you feel... substance-less. The realization that you have been lagging behind.

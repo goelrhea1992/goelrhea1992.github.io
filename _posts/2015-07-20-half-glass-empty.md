@@ -28,8 +28,8 @@ Bad news is, the more I am reading, the more I realize how far behind I am. (Hen
 <p>
 So I have decided that it is never too late for resolutions. My mid-year resolution is to get back in control of my life. I am going to bring back the super-passionate, the ever-ready self back. I miss my self-inspiring self. <br>
 I have set achievable targets for everyday (short-term goals to begin with) and I am following them religiously.
-I am fixinf everything that makes me less confident. Cannot stay in this hitherto unknown territory anymore.<br>
+I am fixing everything that makes me less confident. Cannot stay in this hitherto unknown territory anymore.<br>
 I am coding more, I am reading more, I am writing more. I am challenging myself more.
-<br>
+<br><br>
 I am finally regaining my balance.
 </P>

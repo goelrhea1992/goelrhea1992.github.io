@@ -39,9 +39,7 @@ with an overwhelming set of new tools at hand, in an immensely quality-driven en
 </p>
 
 <p>
-This is not all that the cryptic-cats gave me this summer. I had so much fun - the daily shenanigans, the on-call horror stories, the lunch routine. I will never forget how everyone's face in the room lit up when Jon would walk in at 12. We'd roll a 20 faced dice, check the corresponding restaurant in our list and decide to go to the Thai truck anyway.
-<br>
-The PuzzleHunt, the hackathon, the picnic. I have loved every single day with the cats.
+This is not all that the cryptic-cats gave me this summer. The PuzzleHunt, the hackathon, the picnic. The daily shenanigans, the on-call horror stories, the ping pong evenings, the lunch routine. I will never forget how everyone's face in the room lit up when Jon would walk in at 12. We'd roll a 20 faced dice, check the corresponding restaurant in our list and decide to go to the Thai truck anyway.
 </p>
 
 <p>

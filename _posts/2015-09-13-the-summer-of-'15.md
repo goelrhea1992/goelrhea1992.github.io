@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Summer of 2015"
+title: "The Summer of '15"
 date: 2015-09-13
 ---
 

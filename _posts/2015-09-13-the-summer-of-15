@@ -5,27 +5,28 @@ date: 2015-07-12
 ---
 
 
+<p>
 Those were the best days of my liiife! Indeed.
-</br>
-</br>
+</p>
 
+<p>
 Aaaand for the summer of 2015, I found myself in the beautiful city of Seattle, while working at Amazon Inc., as an intern.
-</br>
-</br>
+</p>
 
+<p>
 Let's call my team Cryptic-Cat to not risk a lawsuit from (spoiler alert) my future employer.
 The cryptic-cats are some of the smartest people I know, who created and manage the biggest NoSQL data store on the planet!
-</br>
-</br>
+</p>
 
+<p>
 For my intern project, I wrote a REST API to run ad hoc performance tests on the huge-ass backend store that amazon.com runs on, 
-in a highly distributed environment and 
-serve a GUI tool that visualizes test metrics, and gives test progress in real time.
+in a highly distributed environment and serve a GUI tool that visualizes test metrics, and gives test progress in real time.
 The service was written in Python, using Flask web framework with DynamoDB and S3 in the back. 
 </br>
 An entire software dev. project in Python. Could I _be_ any cooler?
-</br>
-</br>
+</p>
+
+<p>
 Technically, I have added a lot to my pallete - AWS	 (DynamoDB,	 S3),	 boto,	 Flask, GWT,	D3	(javascript). Object-oriented 
 programming in a scripting language such as Python was a whole new experience. In addition, I picked up a new IDE for the summer, 
 and undoubtedly, I am a proud member of the IntelliJ-over-Eclipse team hereafter.
@@ -38,7 +39,9 @@ an intimidating, yet engaging part of my internship.
 </br>
 Overall, I believe I have done fairly well in an entirely new role, 
 with an overwhelming set of new tools at hand, in an immensely quality-driven environment.
-</br> </br>
+</p>
 
+<p>
 This is not all that the cryptic-cats gave me this summer. I 
 What can I say - it was a summer of firsts. And firsts might be often scary, but are almost always exciting.
+</p>

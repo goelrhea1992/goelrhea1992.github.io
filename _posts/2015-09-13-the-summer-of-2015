@@ -9,7 +9,7 @@ Those were the best days of my liiife! Indeed.
 </p>
 
 <p>
-Aaaand for the summer of 2015, I found myself in the beautiful city of Seattle, while working at Amazon Inc., as an intern.
+Aaaand for the summer of 2015, I found myself in the beautiful city of Seattle, with the perks of being an Amazon intern.
 </p>
 
 <p>
@@ -21,7 +21,7 @@ The cryptic-cats are some of the smartest people I know, who created and manage 
 For my intern project, I wrote a REST API to run ad hoc performance tests on the huge-ass backend store that amazon.com runs on, 
 in a highly distributed environment and serve a GUI tool that visualizes test metrics, and gives test progress in real time.
 The service was written in Python, using Flask web framework with DynamoDB and S3 in the back. 
-</br>
+<br>
 An entire software dev. project in Python. Could I _be_ any cooler?
 </p>
 
@@ -29,13 +29,13 @@ An entire software dev. project in Python. Could I _be_ any cooler?
 Technically, I have added a lot to my pallete - AWS	 (DynamoDB,	 S3),	 boto,	 Flask, GWT,	D3	(javascript). Object-oriented 
 programming in a scripting language such as Python was a whole new experience. In addition, I picked up a new IDE for the summer, 
 and undoubtedly, I am a proud member of the IntelliJ-over-Eclipse team hereafter.
-</br>
+<br>
 Furthermore, working with large scale distributed systems, and multi threaded programming was a major challenge, 
 and my confidence in such advanced concepts has improved significantly.
-</br>
+<br>
 Last but not the least, owning a project from design, to development; from feedback to redesign and testing, to deliver was 
 an intimidating, yet engaging part of my internship.
-</br>
+<br>
 Overall, I believe I have done fairly well in an entirely new role, 
 with an overwhelming set of new tools at hand, in an immensely quality-driven environment.
 </p>

@@ -18,17 +18,15 @@ The cryptic-cats are some of the smartest people I know, who created and manage 
 </p>
 
 <p>
-For my intern project, I wrote a REST API to run ad hoc performance tests on the huge-ass backend store that amazon.com runs on, 
+For my intern project, I wrote a REST API to run ad hoc performance tests on the huge-ass backend store that amazon.com runs on,
 in a highly distributed environment and serve a GUI tool that visualizes test metrics, and gives test progress in real time.
-The service was written in Python, using Flask web framework with DynamoDB and S3 in the back. 
-<br>
-An entire software dev. project in Python. Could I _be_ any cooler?
+<br> The service was written in Python, using Flask web framework with DynamoDB and S3 in the back. 
+An entire software dev. project in Python. Could I <i>be</i> any cooler?
 </p>
 
 <p>
 Technically, I have added a lot to my pallete - AWS	 (DynamoDB,	 S3),	 boto,	 Flask, GWT,	D3	(javascript). Object-oriented 
-programming in a scripting language such as Python was a whole new experience. In addition, I picked up a new IDE for the summer, 
-and undoubtedly, I am a proud member of the IntelliJ-over-Eclipse team hereafter.
+programming in a scripting language such as Python was a whole new experience. In addition, I picked up a new IDE for the summer, and undoubtedly, I am a proud member of the IntelliJ-over-Eclipse team hereafter.
 <br>
 Furthermore, working with large scale distributed systems, and multi threaded programming was a major challenge, 
 and my confidence in such advanced concepts has improved significantly.
@@ -41,6 +39,15 @@ with an overwhelming set of new tools at hand, in an immensely quality-driven en
 </p>
 
 <p>
-This is not all that the cryptic-cats gave me this summer. I 
+This is not all that the cryptic-cats gave me this summer. I had so much fun - the daily shenanigans, the on-call horror stories, the lunch routine. I will never forget how everyone's face in the room lit up when Jon would walk in at 12. We'd roll a 20 faced dice, check the corresponding restaurant in our list and decide to go to the Thai truck anyway.
+<br>
+The PuzzleHunt, the hackathon, the picnic. I have loved every single day with the cats.
+</p>
+
+<p>
+Finally, I ended the summer with a bang - a full-time offer at hand, cycling through the Golden Gate, chillin' by the San Francisco beach and flying back to the much-missed New York City.
+</p>
+
+<p>
 What can I say - it was a summer of firsts. And firsts might be often scary, but are almost always exciting.
 </p>

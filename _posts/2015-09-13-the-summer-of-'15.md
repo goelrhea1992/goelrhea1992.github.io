@@ -43,7 +43,7 @@ This is not all that the cryptic-cats gave me this summer. The PuzzleHunt, the h
 </p>
 
 <p>
-Finally, I ended the summer with a bang - a full-time offer at hand, cycling through the Golden Gate, chillin' by the San Francisco beach and flying back to the much-missed New York City.
+Finally, I ended the summer with a bang - a full-time offer at hand, cycling through the Golden Gate, chillin' by the San Francisco beach, riding an ATV in the Pismo beach dunes and flying back to the much-missed New York City.
 </p>
 
 <p>
